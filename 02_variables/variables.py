@@ -12,3 +12,4 @@ animales_totales = num_perros + num_gatos + num_pajaros
 print("Actualmente contamos con:")
 print("Perros:", num_perros, "Gatos:", num_gatos, "Pajaros:", num_pajaros)
 print("En total tenemos", animales_totales, "animales")
+
